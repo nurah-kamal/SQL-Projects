@@ -14,10 +14,6 @@ This repository contains my SQL projects, covering data querying, database manag
 - Database Management Systems (DBMS)  
 - Data Analysis & Query Optimization  
 
-## 🚀 Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/sql-projects.git
    
 ## 🤝 Contributions  
 Feel free to explore, fork, and contribute! If you have suggestions or improvements, open an issue or submit a pull request.  
